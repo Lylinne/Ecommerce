@@ -1,0 +1,44 @@
+header{
+	height: 15vh;
+	color: #d4fbec;
+	padding: 0.5%;
+	border-radius: 8px;
+	background-color: rgba(23, 20, 25, 191919);
+	text-shadow: 3px 5px 3px #09a4ca;
+}
+h1{
+	margin-top: 0%;
+	margin-bottom: 1%;
+}
+.home{
+	font-size: 1.4em;
+	color: #d4fbec;
+}
+ul{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	margin-right: 5%;
+}
+.container{
+	height: 80vh;
+	width: 80vw;
+	margin: 10vw;
+}
+.carouselItem {
+	position: absolute;
+	width: 70%;
+	margin-top: -10%;
+	top: 0;
+	left: 0;
+}
+.carousel{
+	position: relative;
+}
+.jeux{
+	width: 100%;
+}
+.paraJeux {
+	padding: 0;
+	text-align: justify;
+}

@@ -1,0 +1,26 @@
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSubX2X_WFArIkmO9CTk5dJdmtzo4QxrUrSqe6nQ-EGSMrt6_");
+}
+
+
+section{
+	display: flex;
+	width: 60%;
+	margin-top: 10%;
+	margin-left: 18%;
+	background-color: #fffeee;
+	opacity: 0.85;
+	border-radius: 8px 0 8px 0;
+}
+article{
+	width: 25%;
+	margin-top: 10%;
+	margin-left: 16%;
+}
+
+form{
+	display: flex;
+	flex-direction: column;
+	height: 17vw;
+	margin-top: -40%;
+}
